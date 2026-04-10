@@ -1,0 +1,52 @@
+{
+  "protocol": {
+    "pid": "pid",
+    "label": "label",
+    "Año": "date",
+    "Descripción": "text",
+    "Enlace": "link"
+  },
+  "items": [
+    {
+      "pid": "RP-P-1942-137",
+      "label": "Portret van Louise Blouet (Le Margouin) in atelier van Renée Vert",
+      "Año": 1900,
+      "Descripción": "printmaker: Henri de Toulouse-Lautrec (mentioned on object)",
+      "Enlace": "https://www.rijksmuseum.nl/en/collection/object/Portret-van-Louise-Blouet-Le-Margouin-in-atelier-van-Renee-Vert--bf59d5c1cbfd1cde4b4f2e88bd18b652?tab=data",
+      "images": [
+        "https://srsergiorodriguez.github.io/zines-zines/media/files/collection/images/RP-P-1942-137/A.jpg",
+        "https://srsergiorodriguez.github.io/zines-zines/media/files/collection/images/RP-P-1942-137/B.jpg"
+      ]
+    },
+    {
+      "pid": "RP-P-2008-201",
+      "label": "Hinadori en perzikbloesem",
+      "Año": 1862,
+      "Descripción": "Portret van de acteur Sawamura Tanosuke III in de vrouwenrol Hinadori, met gevouwen handen, gekleed in rode kimono met bloemmotief en lichtblauw hoofddeksel. Roze bloesemtakken in cartouche linksboven.",
+      "Enlace": "https://www.rijksmuseum.nl/en/collection/object/Hinadori-en-perzikbloesem--37df7ddd7bcc0e2782aad1a3ac44fb5d?tab=data",
+      "images": [
+        "https://srsergiorodriguez.github.io/zines-zines/media/files/collection/images/RP-P-2008-201.jpg"
+      ]
+    },
+    {
+      "pid": "RP-P-OB-102.341",
+      "label": "Portret van zwarte vrouw met parelketting",
+      "Año": 1648,
+      "Descripción": "printmaker: Cornelis van Dalen (II) (mentioned on object), Amsterdam",
+      "Enlace": "https://www.rijksmuseum.nl/en/collection/object/Portret-van-zwarte-vrouw-met-parelketting--2207e86f202572081a9a401bb58c1060?tab=data",
+      "images": [
+        "https://srsergiorodriguez.github.io/zines-zines/media/files/collection/images/RP-P-OB-102.341.jpg"
+      ]
+    },
+    {
+      "pid": "SK-A-5005",
+      "label": "Woman in a Large Hat",
+      "Año": 1650,
+      "Descripción": "De halffiguur van een vrouw staat tegen een lichte hemel in fel zonlicht. Ze draagt een hoed met een zeer brede rand, die uit strepen van rosé en wit doek is gevlochten. Daardoor valt haar gezicht half in de schaduw; haar ogen, die in de schaduw zijn gehuld, zijn gericht op de beschouwer. Ze draagt een satijnen wit gewaad, dat de schouder ontbloot laat. Een rosé lintje valt van de hoed op haar blote schouder, een ander breder lint van dezelfde kleur dient als gordel. Ze houdt met twee armen een mandje met licht violette pruimen omhoog. De horizon ligt vrij laag, zodat aan de benedenkant van het stuk alleen de toppen van bomen te zien zijn.",
+      "Enlace": "https://www.rijksmuseum.nl/en/collection/object/Woman-in-a-Large-Hat--65521e32f254ad8131495971be3c15fd?tab=data",
+      "images": [
+        "https://srsergiorodriguez.github.io/zines-zines/media/files/collection/images/SK-A-5005.jpg"
+      ]
+    }
+  ]
+}
