@@ -1,0 +1,40 @@
+{
+    "config": {
+        "postsPerPage": 5,
+        "tagsPostsPerPage": 5,
+        "authorsPostsPerPage": 5,
+        "excerptLength": 25,
+        "logo": ""
+    },
+    "customConfig": {
+        "showIntroText": true,
+        "introText": "<p>Hola, bienvenides a mi colección de Fanzines.</p>",
+        "showPostsListIndex": false,
+        "themeColorScheme": "dark",
+        "themeColorVersion": ".violet.",
+        "faviconUpload": "",
+        "faviconExtension": "image/x-icon",
+        "rowSectionBorder": false,
+        "mainWidth": "1100px",
+        "sidebarWidth": "300px",
+        "selectedPosts": "",
+        "amountSelectedtPosts": "3",
+        "fontSize": "16",
+        "fontHeadingsName": "Fascinate",
+        "fontHeadingsURL": "Fascinate",
+        "fontBodyName": "Inter",
+        "fontBodyURL": "Inter:wght@400;700"
+    },
+    "postConfig": {},
+    "pageConfig": {},
+    "tagConfig": {
+        "displayPostCounter": 1
+    },
+    "authorConfig": {
+        "displayPostCounter": 1
+    },
+    "defaultTemplates": {
+        "post": "",
+        "page": ""
+    }
+}

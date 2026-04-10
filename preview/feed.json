@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Zines Zines",
+    "description": "",
+    "home_page_url": "file:///Users/sergiorodriguez/Documents/Publii/sites/zines-zines/preview",
+    "feed_url": "file:///Users/sergiorodriguez/Documents/Publii/sites/zines-zines/preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sergio R. G."
+    },
+    "items": [
+    ]
+}
